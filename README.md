@@ -40,4 +40,8 @@ Data includes:
 2. Naive Bayes
 3. Logistic Regression
 4. Support Vector Machine
+5. Decision Trees
+6. Random Forest and Extreme Gradient Boosting
+7. TSNE
+8. Truncated SVD
 ```
